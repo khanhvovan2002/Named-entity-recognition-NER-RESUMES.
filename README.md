@@ -1,6 +1,5 @@
 # Named-entity-recognition-NER-RESUMES.
 ## Run the `prediction.py` Python Script for prediction test
-
 ##for conda user, install required environment as follow:
 `conda env create -n my_spacy_env -f environment.yml`
 `conda activate my_spacy_env`

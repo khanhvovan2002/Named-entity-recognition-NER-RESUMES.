@@ -1,1 +1,1 @@
-/Users/vovankhanh/Documents/testing/data/pdf_file/cv_95.pdf
+    for entity, label in entities:

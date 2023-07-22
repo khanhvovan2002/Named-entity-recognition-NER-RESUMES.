@@ -9,7 +9,7 @@ def predict_entities(text):
     return entities
 
 if __name__ == "__main__":
-    pdf_directory = "/Users/vovankhanh/Documents/testing/data/pdf_file/cv_35.pdf"
+    pdf_directory = "/Users/vovankhanh/Documents/testing/data/pdf_file/cv_32.pdf"
      # Call the function to extract text from the PDF
     extracted_text = extract_text_from_pdf(pdf_directory)
 

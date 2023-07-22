@@ -1,8 +1,0 @@
-name: my_spacy_env  # Replace "my_spacy_env" with the name of your conda environment
-channels:
-  - defaults
-dependencies:
-  - python=3.10.9
-  - spacy=3.6.0
-  - frontend=0.0.3
-  - PyMuPDF=1.22.5
